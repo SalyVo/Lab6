@@ -1,0 +1,6 @@
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\bin\Debug\ReflectionLab.exe.config
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\bin\Debug\ReflectionLab.exe
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\bin\Debug\ReflectionLab.pdb
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\obj\Debug\ReflectionLab.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\obj\Debug\ReflectionLab.exe
+C:\Users\Andrii\Desktop\ReflectionLab\ReflectionLab\obj\Debug\ReflectionLab.pdb
